@@ -1,0 +1,11 @@
+
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ûÂ¡üÿÿÿÿ8ñÏÅ¾É,
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(²ÔÌ8øë£¼É,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(²±é×8•á¿¾É,
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(Œè±Åüÿÿÿÿ8â–Ã¾É,
+;squid:S1700"Rename field "inventory"(Îà¥·ùÿÿÿÿ8å¤ú»É,
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯¢£@

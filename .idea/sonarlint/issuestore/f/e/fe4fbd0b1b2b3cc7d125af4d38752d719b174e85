@@ -1,0 +1,20 @@
+
+fsquid:S1192"HDefine a constant instead of duplicating this literal "topWood" 4 times.(äâ…ë8ÆüØãÉ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(½ÿ“8ÆüØãÉ,
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(¤âŞ›üÿÿÿÿ8ÆüØãÉ,
+fsquid:S1192"HDefine a constant instead of duplicating this literal "builder" 4 times.(íˆÈ­8ÆüØãÉ,
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯¢£@
+hsquid:S11923"JDefine a constant instead of duplicating this literal "numString" 3 times.(ŞË¨²8ÆüØãÉ,
+V
+squid:S106""9Replace this use of System.out or System.err by a logger.(Ğ§½Î8ÆüØãÉ,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(®ßüÿÿÿÿ8ÆüØãÉ,
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(ş…Ş8ÆüØãÉ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢·®“8ÆüØãÉ,
+lsquid:S11925"IDefine a constant instead of duplicating this literal "backWood" 3 times.(¢—ÿ²ıÿÿÿÿ8ÆüØãÉ,
+rsquid:S1192!"ODefine a constant instead of duplicating this literal "instrumentType" 5 times.(ßúÇ”şÿÿÿÿ8ÆüØãÉ,
+isquid:S11921"FDefine a constant instead of duplicating this literal "model" 3 times.(ŒğÊ‹ÿÿÿÿÿ8ÆüØãÉ,

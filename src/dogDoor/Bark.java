@@ -1,0 +1,27 @@
+package dogDoor;
+
+public class Bark {
+    private String sound;
+
+
+    public Bark(String sound){
+        this.sound = sound;
+    }
+
+    public String getSound() {
+        return sound;
+    }
+
+    @Override
+    public boolean equals(Object bark) {
+        if (bark instanceof  Bark) {
+            Bark otherBark = (Bark) bark;
+                    if(this.sound.equals(otherBark.sound)){
+                        System.out.println("진자 개");
+                            return true;
+                    }
+        }
+        System.out.println("");
+        return false;
+    }
+}

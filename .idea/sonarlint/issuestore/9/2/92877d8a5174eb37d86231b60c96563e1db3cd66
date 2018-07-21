@@ -1,0 +1,7 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8´æÓŸÇ,
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ«ÓÏúÿÿÿÿ8ùú† Ç,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾şŞıÿÿÿÿ8´æÓŸÇ,
+nsquid:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(®Õ¾ü8ø‹·Ç,
